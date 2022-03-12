@@ -1,4 +1,4 @@
-## Suites de teste da aplicação Getgeeks 
+## Suite da aplicação Getgeeks 
 
-Suites de teste para cobertura do Front e Backend da aplicação Getgeeks
+Suite para cobertura dos cenários de Front e Backend da aplicação Getgeeks, ministrado durante o Bootcamp GravidadeZero pela equipe QANinja: https://qaninja.academy/, https://qa.ninja/
 
