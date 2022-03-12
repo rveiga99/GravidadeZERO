@@ -1,4 +1,4 @@
-## Repositório com os arquivos do BootCamp GravidadeZERO
+## Repositório com os arquivos do Bootcamp GravidadeZERO
 
 Durante o bootcamp ministrado pela equipe da QANinja, foram utilizadas duas aplicações:
 
