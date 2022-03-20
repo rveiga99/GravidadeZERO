@@ -28,4 +28,4 @@ jobs:
     - name: Run API Tests
       run: |
         chmod +x getgeeks/project/backend/run.sh
-        cd backend/ && ./run.sh
+        cd getgeeks/project/backend/ && ./run.sh
