@@ -31,17 +31,8 @@ Insert User
 
 Users Seed
 
-    ${user}        Factory User    login
-    Insert User    ${user}
+    ${users}       Users To Insert DB 
 
-    ${user2}       Factory User    be_geek
-    Insert User    ${user2}
-
-    ${user3}       Factory User    short_desc
-    Insert User    ${user3}
-
-    ${user4}       Factory User     long_desc
-    Insert User    ${user4}
-
-    ${user5}       Factory User     req_fields
-    Insert User    ${user5}
+    FOR     ${user}     IN      @{users}
+        Insert User  ${user}
+    END
