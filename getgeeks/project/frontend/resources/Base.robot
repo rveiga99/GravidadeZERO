@@ -4,6 +4,7 @@ Documentation    Arquivo base do projeto de testes
 
 Library    Browser
 Library    Collections
+Library    String
 
 Library    factories/Users.py
 Library    Utils.py
@@ -15,6 +16,7 @@ Resource    actions/GeekActions.robot
 
 Resource    Database.robot
 Resource    Helpers.robot
+Resource    Services.robot
 
 *Variables*
 
